@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Okai"
         tools:targetApi="31">
         <activity
-            android:name=".ui.activities.MainActivity"
+            android:name="com.dacha.okai.presentation.ui.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

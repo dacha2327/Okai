@@ -1,4 +1,4 @@
-package com.dacha.okai.ui.activities
+package com.dacha.okai.presentation.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
