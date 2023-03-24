@@ -3,18 +3,18 @@
 
     <item
         android:id="@+id/mainFragment"
-        android:icon="@drawable/ic_outline_home_24"
+        android:icon="@drawable/home_alt"
         android:title="@string/main" />
 
     <item
         android:id="@+id/catalogFragment"
-        android:icon="@drawable/ic_baseline_receipt_24"
+        android:icon="@drawable/grid_small"
         android:title="@string/catalog" />
 
     <item
         android:id="@+id/bascetFragment"
-        android:icon="@drawable/ic_outline_shopping_basket_24"
-        android:title="@string/basket" />
+        android:title="" />
+
 
     <item
        android:id="@+id/orderFragment"
@@ -23,7 +23,7 @@
 
     <item
         android:id="@+id/profileFragment"
-        android:icon="@drawable/ic_outline_person_outline_24"
+        android:icon="@drawable/user"
         android:title="@string/profile"/>
 
 </menu>
