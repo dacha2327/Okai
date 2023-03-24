@@ -5,10 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".presentation.ui.fragment.basket.BascetFragment">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Helo"/>
 
     <TextView
         android:id="@+id/empty_backet_tv"
@@ -38,7 +34,6 @@
         android:layout_marginRight="98dp"
         android:layout_marginBottom="310dp"
         android:background="@drawable/button_shape_circle_basket"
-        android:backgroundTint="@color/orange"
         android:text="@string/btn_backet_katalog"
         android:textAllCaps="false"
         android:textSize="14sp" />

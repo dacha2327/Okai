@@ -11,4 +11,22 @@
     <string name="emptybacket">Ваша корзина пуста:(</string>
     <string name="btn_backet_katalog">Перейти в каталог</string>
     <string name="order_backet">Оформить заказ</string>
+    <string name="name_product1">Молоко паст 2.5%</string>
+    <string name="todo">TODO</string>
+    <string name="product_status1">930 мл</string>
+    <string name="product_price1">120 KGS</string>
+    <string name="todo1">TODO</string>
+    <string name="name_product2">Греческий йогурт</string>
+    <string name="product_status2">907 мл</string>
+    <string name="product_status3">400 г</string>
+    <string name="product_price2">122 KGS</string>
+    <string name="product_price3">135 KGS</string>
+    <string name="amount2">1</string>
+    <string name="amount1">1</string>
+    <string name="todo2">TODO</string>
+    <string name="name_product3">Сметана \'\'Ключевское\'\'</string>
+    <string name="product_sum">Итого</string>
+    <string name="sum">379.00 KGS</string>
+    <string name="Continue_shop">Продолжить покупку</string>
+    <string name="amount3">1</string>
 </resources>
