@@ -7,4 +7,8 @@
     <string name="profile">Профиль</string>
     <string name="orders">Заказы</string>
     <string name="basket">Корзина</string>
+    <string name="milligram">930мл</string>
+    <string name="emptybacket">Ваша корзина пуста:(</string>
+    <string name="btn_backet_katalog">Перейти в каталог</string>
+    <string name="order_backet">Оформить заказ</string>
 </resources>
